@@ -20,6 +20,7 @@ import ProductEditScreen from './screens/ProductEditScreen'
 import OrderListScreen from './screens/OrderListScreen'
 
 const App = () => {
+  console.log('hj');
   return (
     <Router>
       <Header />
